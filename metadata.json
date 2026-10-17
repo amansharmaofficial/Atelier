@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Curated Living",
+  "description": "A multi-screen luxury interior design and curated lifestyle shopping experience with interactive lookbooks, product details, and checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
